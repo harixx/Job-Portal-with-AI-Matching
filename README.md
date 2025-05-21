@@ -5,7 +5,7 @@ Job Portal is a basic recruitment online website developed using the following t
 3. SQL Server
 
 # Live Demo
-- [Job Portal | ASP.NET Core MVC (.NET 6)](https://youtu.be/KEkq_Q_BOXc)
+- [Job Portal | ASP.NET Core MVC (.NET 6)](https://youtu.be/IieFRdl47Us)
 
 # Account
 Below are the accounts used in the project with their respective roles: User, Employer, Admin
@@ -37,5 +37,4 @@ user1@gmail.com | 123123 | User
 user10@gmail.com | 123123 | User
 
 # Contact Information
-- Email: trinhviethoang16@gmail.com
-- Facebook: facebook.com/viethoang1630
+- Email: muhammadharissalman@gmail.com
